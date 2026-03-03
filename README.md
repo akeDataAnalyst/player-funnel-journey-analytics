@@ -9,7 +9,6 @@ End-to-end analytics pipeline for mobile/casual game player funnel, conversion d
 - Full funnel visualization (install → D30 retention)  
 - Cohort retention heatmaps & curves (D1/D7/D30)  
 - K-Means clustering → 5 player personas  
-- Interactive Streamlit dashboard combining funnel + cohorts + personas
 
 ## Business Problem & Key Findings
 
