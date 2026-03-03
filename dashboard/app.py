@@ -26,7 +26,7 @@ st.markdown("50,000 players • Funnel + Cohorts + Clustering")
 def get_duckdb_connection():
     con = duckdb.connect(':memory:')
     
-    csv_path = "../data/raw/player_journey_50k.csv"
+    csv_path = "../dashboard/player_journey_50k.csv"
     
     if not os.path.exists(csv_path):
         st.error(f"CSV file not found: {csv_path}\nRun Phase 1 notebook first.")
