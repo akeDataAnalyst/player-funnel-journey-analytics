@@ -63,4 +63,3 @@ Where do players drop off in the journey, how does retention decay over time, an
 - duckdb (SQL queries on dataframes)
 - scikit-learn (K-Means clustering)
 - plotly, seaborn, matplotlib (visualizations)
-- Streamlit (interactive dashboard)
